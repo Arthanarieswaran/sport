@@ -13,7 +13,7 @@
                         </div>
                       </div>
                     </div>
-                    <a href="" class="text-decoration-none">
+                    <a href="{{route('running')}}" class="text-decoration-none">
                         <div class="text-container">
                         <h3>A blue bird</h3>
                         <div>

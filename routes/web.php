@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('reg',[FrontendController::class, 'reg'])->name('reg');
+Route::get('running',[FrontendController::class,'running'])->name('running');
