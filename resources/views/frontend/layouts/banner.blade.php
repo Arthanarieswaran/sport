@@ -8,9 +8,11 @@
             <h1 class="ten">Make it easy to register up</h1>
             <h4 class="mt-1 ms-5">Improve Registrations $ revenues</h4>
 
-            <button type="button" class="btn btn-labeled btn-success mt-1 ms-5">
-                <span class="btn-label"><i class="fa-solid fa-check me-3"></i></span>Success
-            </button>
+            <a href="{{route('reg')}}">
+                <button type="button" class="btn btn-labeled btn-success mt-1 ms-5">
+                    <span class="btn-label"><i class="fa-solid fa-check me-3"></i></span>Success
+                </button>
+            </a>
         </div>
     </div>
 </div>
