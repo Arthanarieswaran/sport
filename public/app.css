@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant Upright');
+*
+{
+    font-family: 'Cormorant Upright';
+    font-weight: bold;
+}
+/* nav bar */
+.nav-bar{
+    height: 4.5rem;
+}
+.logo{
+    height: 4.4rem;
+    width: 4.4rem;
+}
+    .vr-line{
+        height: 4rem;
+        width: 5rem;
+    }
+.social-media{
+    margin-left: 50rem;
+    font-size: 1.2rem;
+}
+
+/* bannner */
+.banner{
+    /* background-image: url("images/bg.png")! impartent; */
+}
