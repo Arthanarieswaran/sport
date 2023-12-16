@@ -14,7 +14,9 @@
                 <li><i class="fa-solid fa-basketball me-2"></i>Fast registration for returning players with pre-loaded data</li>
             </ul>
         </div>
-        <div></div>
+        <div>
+            <img src="" alt="">
+        </div>
     </div>
 
 </div>
