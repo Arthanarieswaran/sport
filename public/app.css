@@ -4,6 +4,10 @@
     font-family: 'Cormorant Upright';
     font-weight: bold;
 }
+body{
+    background-color: #f7f9fa;
+    /* background-color: aquamarine; */
+}
 /* nav bar */
 .nav-bar{
     height: 4.5rem;
@@ -20,8 +24,33 @@
     margin-left: 50rem;
     font-size: 1.2rem;
 }
-
-/* bannner */
-.banner{
-    /* background-image: url("images/bg.png")! impartent; */
+.banner-card{
+    margin-left: 37vh;
+    height: 70vh;
+    width: 140vh;
+    /* background-color: antiquewhite; */
+    background-image: url('images/bgimg-3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: blur(1px); */
+}
+.card-bg{
+    height: 50vh;
+    width: 48vh;
+    margin-top: 5vh;
+}
+.bann-con{
+    margin-top: 25vh;
+}
+.ten{
+    font-weight: 900;
+    /* font-size: 20px; */
+    font-family: 'Kalnia Fatface';
+    font-size: 35px;
+}
+.btn{
+    width: 23vh;
+}
+.game-list li , h3{
+    font-family: 'PT Serif Caption';font-size: 22px;
 }

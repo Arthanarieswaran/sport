@@ -7,3 +7,5 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
 <link href='https://fonts.googleapis.com/css?family=Nova Square' rel='stylesheet'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link href='https://fonts.googleapis.com/css?family=Kalnia Fatface' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=PT Serif Caption' rel='stylesheet'>
