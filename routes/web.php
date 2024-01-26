@@ -20,3 +20,9 @@ Route::get('/', function () {
 
 Route::get('reg',[FrontendController::class, 'reg'])->name('reg');
 Route::get('running',[FrontendController::class,'running'])->name('running');
+Route::get('hockey',[FrontendController::class,'hockey'])->name('hockey');
+Route::get('football',[FrontendController::class,'football'])->name('football');
+Route::get('kabbadi',[FrontendController::class,'kabbadi'])->name('kabbadi');
+
+
+

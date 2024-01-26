@@ -1,21 +1,18 @@
 
 @extends('frontend.master')
 @section('main-content')
-{{-- @include('frontend.design.style') --}}
+@include('frontend.design.style')
 <div class="container">
-    <div class="title">Registration For Running Competition</div>
+    <div class="title">Registration For Kabbadi Competition</div>
     <form action="#">
       <div class="user__details">
-        <div class="d-flex flex-row">
-            <div class="details">Your Name</div>
-            <div class="input__box me-2">
-                {{-- <span class="details">Full Name</span> --}}
-                <input type="text" placeholder="E.g: John Smith" required>
-            </div>
-            <div class="input__box ms-2">
-                {{-- <span class="details">Username</span> --}}
-                <input type="text" placeholder="johnWC98" required>
-            </div>
+        <div class="input__box">
+          <span class="details">Full Name</span>
+          <input type="text" placeholder="E.g: John Smith" required>
+        </div>
+        <div class="input__box">
+          <span class="details">Username</span>
+          <input type="text" placeholder="johnWC98" required>
         </div>
         <div class="input__box">
           <span class="details">Email</span>

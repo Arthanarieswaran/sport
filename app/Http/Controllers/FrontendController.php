@@ -13,4 +13,18 @@ class FrontendController extends Controller
     public function running(){
         return view('frontend.layouts.running');
     }
+
+    public function hockey(){
+        return view('frontend.layouts.hockey');
+    }
+
+    public function football(){
+        return view('frontend.layouts.football');
+    }
+
+    public function kabbadi(){
+        return view('frontend.layouts.kabbadi');
+    }
 }
+
+

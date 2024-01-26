@@ -30,7 +30,7 @@
                         </div>
                       </div>
                     </div>
-                    <a href="" class="text-decoration-none">
+                    <a href="{{route('hockey')}}" class="text-decoration-none">
                         <div class="text-container">
                         <h3>A blue bird</h3>
                         <div>
@@ -47,7 +47,7 @@
                         </div>
                       </div>
                     </div>
-                    <a href="" class="text-decoration-none">
+                    <a href="{{route('football')}}" class="text-decoration-none">
                         <div class="text-container">
                         <h3>A blue bird</h3>
                         <div>
@@ -64,7 +64,7 @@
                         </div>
                       </div>
                     </div>
-                    <a href="" class="text-decoration-none">
+                    <a href="{{route('kabbadi')}}" class="text-decoration-none">
                         <div class="text-container">
                         <h3>A blue bird</h3>
                         <div>

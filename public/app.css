@@ -114,3 +114,8 @@ body{
     display: flex;
     /* display; */
 /* }  */
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }

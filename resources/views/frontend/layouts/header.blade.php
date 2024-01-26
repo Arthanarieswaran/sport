@@ -17,10 +17,10 @@
         </div>
         <div>
             <ul class="d-flex flex-row mt-4 social-media">
-                <li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-facebook-f"></i></li>
-                <li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-twitter"></i></li>
-                <li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-instagram"></i></li>
-                <li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-youtube"></i></li>
+                <a href="https://www.facebook.com/"  target="_blank"><li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-facebook-f"></i></li></a>
+                <a href="https://www.twitter.com/" target="_blank"><li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-twitter"></i></li></a>
+                <a href="https://www.instagram.com/" target="_blank"><li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-instagram"></i></li></a>
+                <a href="https://www.youtube.com/" target="_blank"><li class="list-group-item ms-3 list-unstyled"><i class="fa-brands fa-youtube"></i></li></a>
             </ul>
         </div>
     </nav>
